@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Object\ acting\ as\ a\ card\ in\ the\ game,\ storing\ a\ value\ of\ its\ face\r\n\r\n\ Methods\:\ getCardValue,\ toString\r\n\r\n\ @Jessie\ McColm\ and\ Lucia\ Adams\r\n
+comment1.params=value
+comment1.target=Card(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n\r\n
+comment2.params=
+comment2.target=int\ getCardValue()
+comment2.text=\r\n\ Getter\ for\ the\ value\ of\ the\ card\r\n\r\n\ @param\ \ None\r\n\ @return\ \ int\ cardValue\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ To\ String\ method\ that\ returns\ String\ of\ value\ on\ card\r\n\r\n\ @param\ \ None\r\n\ @return\ \ String\ cardValue\r\n
+numComments=4

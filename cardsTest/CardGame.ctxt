@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CardGame
+comment0.text=\r\n\ Main\ class\ that\ runs\ the\ card\ game\r\n\r\n\ Methods\:\ main,\ runGame,\ setUpCards,\ dealCards\r\n\r\n\ @Jessie\ McColm\ and\ Lucia\ Adams\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cardList
+comment2.target=void\ runGame(java.util.ArrayList)
+comment2.text=\r\n\ Method\ to\ run\ and\ stop\ the\ player\ threads\r\n\r\n\ @param\ \ cardList\ list\ of\ cards\ in\ the\ game\r\n\ @return\ \ None\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ setUpCards()
+comment3.text=\r\n\ Method\ to\ take\ in\ user\ input\ of\ number\ of\ players\ and\ deck\ file\r\n\r\n\ @param\ \ None\r\n\ @return\ \ cardList\ list\ of\ cards\ in\ the\ game\r\n
+comment4.params=cardsInGame\ decksInGame\ playersInGame
+comment4.target=void\ dealCards(java.util.ArrayList,\ Deck[],\ Player[])
+comment4.text=\r\n\ Method\ to\ deal\ the\ cards\ out\ to\ players\ and\ decks\r\n\r\n\ @param\ \ cardsInGame\ list\ of\ cards\ in\ the\ game\r\n\ @param\ \ decksInGame\ list\ of\ decks\ in\ the\ game\r\n\ @param\ \ playersInGame\ list\ of\ players\ in\ the\ game\r\n\ @return\ \ None\r\n
+numComments=5

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=testCardGame
+comment0.text=\r\n\ The\ test\ class\ testCardGame.\r\n\r\n\ @Jessie\ McColm\ and\ Lucia\ Adams\r\n
+comment1.params=
+comment1.target=testCardGame()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ testCardGame\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ test1PlayerWinnable()
+comment3.text=\r\n\ Tests\ that\ a\ game\ with\ 1\ player\ can\ finish\ and\ the\ last\ lines\ of\ the\r\n\ output\ file\ read\ as\ we\ expect\r\n
+comment4.params=
+comment4.target=void\ test2PlayerImmediateWin()
+comment4.text=\r\n\ Tests\ that\ a\ game\ with\ 2\ players\ with\ one\ player\ winning\ immediately\r\n\ ends\ and\ that\ player\ 1\ writes\ 3\ lines\ to\ their\r\n\ output\ file\ with\ our\ expected\ output.\ Also\ tests\ last\ lines\ of\r\n\ player\ 2s\ output\ is\ as\ we\ expect\ ie\ player\ 1\ won\r\n
+comment5.params=
+comment5.target=void\ testDealCards()
+comment5.text=\r\n\ Tests\ that\ the\ dealCards\ method\ deals\ out\ known\ cards\ to\r\n\ players\ in\ the\ expected\ order\r\n
+comment6.params=
+comment6.target=void\ testDealCardsFalse()
+comment6.text=\r\n\ Tests\ that\ the\ dealCards\ method\ doesn't\ deal\ out\ known\ cards\ to\ players\r\n\ in\ an\ unexpected\ order\r\n
+comment7.params=
+comment7.target=void\ tearDown()
+comment7.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+numComments=8
