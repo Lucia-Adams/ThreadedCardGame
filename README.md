@@ -1,7 +1,7 @@
 # ThreadedCardGame
 Threaded multiplayer card game simulation in Java
 
-This project was completed as part of a University Module
+This project was completed as part of a University Module with @Jessie-McColm
 
 ## Game rules
 - The game has n players, each numbered 1 to n, with n being a positive integer, and n decks of cards, again, each numbered 1 to n. 
